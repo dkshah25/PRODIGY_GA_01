@@ -15,7 +15,7 @@ Fine-tune OpenAI's GPT-2 model using a custom dataset to generate meaningful tex
 - GitHub
 
 ## 🧪 Output Screenshot
-![GPT-2 Output](screenshots/output.png)
+![GPT-2 Output](screenshots/Screenshot_44.png)
 
 ## 📓 Notebook
 [Click to view notebook](notebooks/GPT2_Task1_Dharmit.ipynb)

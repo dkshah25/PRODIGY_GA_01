@@ -1,0 +1,6 @@
+Model: GPT-2 (huggingface/transformers)
+Epochs: 1
+Training loss: 4.55
+Dataset: Custom AI-themed motivational quotes (30+ lines)
+Prompt used: "Dharmit built an AI that could dream, and one night it said:"
+Generated output: See generated_text.txt
